@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TaskFramework",
+        "repositoryURL": "https://github.com/dosgiandubh/Task-Framework",
+        "state": {
+          "branch": "main",
+          "revision": "744783e6c966a6b948c61034ecc0530ad448b0bb",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
